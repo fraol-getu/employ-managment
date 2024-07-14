@@ -1,0 +1,64 @@
+{
+  "employdata": [
+    {
+      "firstname": "fraol",
+      "lastname": "getu",
+      "email": "frraolgetu03@gmail.com",
+      "dob": "2024-07-15T21:00:00.000Z",
+      "gender": "male",
+      "educationlevel": "Masters",
+      "companyname": "Abkem",
+      "experiance": 4,
+      "salary": 10000,
+      "id": "d71c"
+    },
+    {
+      "id": "8a52",
+      "firstname": "tsion",
+      "lastname": "getu",
+      "email": "tsion@gmail.com",
+      "dob": "2024-07-09T21:00:00.000Z",
+      "gender": "female",
+      "educationlevel": "Deploma",
+      "companyname": "google",
+      "experiance": 2,
+      "salary": 5000
+    },
+    {
+      "id": "1274",
+      "firstname": "kirubel",
+      "lastname": "gizaw",
+      "email": "kirubel@gmail.com",
+      "dob": "2024-07-22T21:00:00.000Z",
+      "gender": "male",
+      "educationlevel": "Degree",
+      "companyname": "microsoft",
+      "experiance": 8,
+      "salary": 30000
+    },
+    {
+      "firstname": "selam",
+      "lastname": "tadese",
+      "email": "sele@gmail.com",
+      "dob": "2024-07-08T21:00:00.000Z",
+      "gender": "female",
+      "educationlevel": "Matric",
+      "companyname": "openai",
+      "experiance": 1,
+      "salary": 4000,
+      "id": "4eca"
+    },
+    {
+      "id": "20cb",
+      "firstname": "Test",
+      "lastname": "Work",
+      "email": "test@gmail.com",
+      "dob": "2024-07-08T21:00:00.000Z",
+      "gender": "male",
+      "educationlevel": "Matric",
+      "companyname": "Test",
+      "experiance": 8,
+      "salary": 90000
+    }
+  ]
+}
